@@ -7,8 +7,9 @@ Also the 'cout' object along with the "<<" operator for was used for displaying 
 we first include the iostream header file that allows us to display output.
 The 'cout' object is defined inside the std namespace. To use the std namespace, we used the using namespace std; statement.
 The code execution begins from the start of the main() function.
-  Moreover, we also made used of both 'private' and 'public' keyword.
+ Moreover, we also made use of both 'private' and 'public' keyword.
 This means the members are public and can be accessed anywhere from the program if the 'public' keyword is used. 
 Likewise, we also create private members using the 'private' keyword. The private members of a class can only be accessed from within the class.
 And lastly, the if...else statement to create decision making programs.
-
+The if...else statement was used to execute a block of code among two alternatives. 
+However, making a choice between more than two alternatives, we made use of the if...else if...else statement.
