@@ -1,6 +1,10 @@
-# C-
-C++ is a powerful general-purpose programming language. 
-It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. 
-This makes C++ powerful as well as flexible.
-Most of the project here in C++ interacts directly with the internal hardware of a computer. 
-Due to this, you will understand how computer memory works and how information can be stored and retrieved.
+# C++
+
+In this project we made use of the int data type suggests that the variable can only hold integers. 
+Similarly, we also use the double data type if we have to store decimals and exponentials.
+The const keyword was also created as a variable whose value cannot be changed.
+Also the 'cout' object along with the "<<" operator for was used for displaying output.In order for this to work, 
+we first include the iostream header file that allows us to display output.
+The 'cout' object is defined inside the std namespace. To use the std namespace, we used the using namespace std; statement.
+The code execution begins from the start of the main() function.
+
